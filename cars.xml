@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><cars>
+	<owner name="kevin indangasi">
+		<car vin="LLOKAJSS55548574">
+			<make>Ford</make>
+			<model>Fusion</model>
+			<year>2014</year>
+			<color>Blue</color>
+		</car>
+		<car vin="LLOKAJSS55548574">
+			<make>Toyota</make>
+			<model>Tacoma</model>
+			<year>2013</year>
+			<color>Green</color>
+		</car>
+		<car vin="LLOKAJSS55548574">
+			<make>Dodge</make>
+			<model>Charger</model>
+			<year>2013</year>
+			<color>Red</color>
+		</car>
+	</owner>
+	<owner name="kevin indangasi">
+		<car vin="LLOKAJSS55548574">
+			<make>Nissan</make>
+			<model>Altima</model>
+			<year>2000</year>
+			<color>Green</color>
+		</car>
+		<car vin="LLOKAJSS55548574">
+			<make>Dodge</make>
+			<model>Challenger</model>
+			<year>2013</year>
+			<color>Red</color>
+		</car>
+	</owner>
+</cars>
